@@ -3,4 +3,4 @@ A repository to learn git &amp; practice contributing to open source software us
 
 This is an awesome repo!
 
-Yeah I agree.
+Yeah I agree. Help!
